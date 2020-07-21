@@ -7,3 +7,4 @@ add merge
 edit merge
 edit aaaa
 vitus edit
+new friend
